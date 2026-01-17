@@ -1,0 +1,6 @@
+numpy
+opencv-python
+pyaudio
+scipy
+deepface
+tensorflow
